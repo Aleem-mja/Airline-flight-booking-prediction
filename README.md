@@ -4,6 +4,9 @@ A machine learning project that predicts whether an airline customer will comple
 
 The project demonstrates an end-to-end machine learning workflow, including **exploratory data analysis, data preprocessing, feature engineering, categorical encoding, predictive modeling, cross-validation, model evaluation, and feature-importance analysis**.
 
+<img width="1401" height="790" alt="Screenshot 2026-10-05 at 2 38 34 PM" src="https://github.com/user-attachments/assets/0d85234f-5eb0-47a4-b8ee-902aefc8b017" />
+
+
 ---
 
 ## 📌 Project Overview
