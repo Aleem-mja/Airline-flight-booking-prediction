@@ -302,7 +302,7 @@ airline-flight-booking-prediction/
 Clone the repository:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/airline-flight-booking-prediction.git
+git clone https://github.com/Aleem-mja/airline-flight-booking-prediction.git
 ```
 
 Navigate to the project directory:
@@ -417,3 +417,6 @@ This project is part of my data analytics and machine learning portfolio, demons
 **Multiple** classification metrics
 **Top 10** predictive features identified
 **End-to-end** machine learning workflow
+
+<img width="1401" height="790" alt="Screenshot 2026-10-05 at 2 38 34 PM" src="https://github.com/user-attachments/assets/0d85234f-5eb0-47a4-b8ee-902aefc8b017" />
+
